@@ -27,7 +27,7 @@ Here are a few highlights of my projects:
 ![Fares's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fares403&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fares-ashraf/)
-- Email: [fares.ashraf@example.com](mailto:fares.ashraf@example.com)
+- LinkedIn: [Fares Ashraf](https://www.linkedin.com/in/fares403/)
+- Email: [fares.social41@gmail.com](mailto:fares.social41@gmail.com)
 
 Thanks for visiting my profile! Feel free to check out my projects and connect if you’d like to collaborate.
