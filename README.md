@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a strong interest in 
 ## 📝 Projects
 Here are a few highlights of my projects:
 1. [Movies Database Analysis](https://github.com/Fares403/MoviesDB_Analaysis_with_Python_SQL): A comprehensive analysis of the movie industry using Python and SQL Server.
-2. [Breast Cancer Classifier](https://github.com/Fares403/Breast-Cancer-Classifier)):Web App built using Dash (a Python web framework) and powered by a Logistic Regression model.
-3. [BikeStores_Analysis](https://github.com/Fares403/BikeStores_Analysis): The BikeStores database encompasses various aspects of a typical retail environment
+2. [Breast Cancer Classifier](https://github.com/Fares403/Breast-Cancer-Classifier) : Web App built using Dash (a Python web framework) and powered by a Logistic Regression model.
+3. [BikeStores_Analysis](https://github.com/Fares403/BikeStores_Analysis) : The BikeStores database encompasses various aspects of a typical retail environment
 
 ## 📈 GitHub Stats
 ![Fares's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fares403&show_icons=true&theme=radical)
