@@ -28,6 +28,6 @@ Here are a few highlights of my projects:
 
 ## 📫 Connect with Me
 - LinkedIn: [Fares Ashraf](https://www.linkedin.com/in/fares403/)
-- Email: [fares.social41@gmail.com](mailto:fares.social41@gmail.com)
+- Email: [fares.social41@gmail.com](mailto:fares.ashraf1001@gmail.com)
 
 Thanks for visiting my profile! Feel free to check out my projects and connect if you’d like to collaborate.
